@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7c43bc6bcd224f0eb164922b14561541/artifacts
+end_time: 1746756502471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c43bc6bcd224f0eb164922b14561541
+run_name: chill-moose-134
+run_uuid: 7c43bc6bcd224f0eb164922b14561541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746756499945
+status: 3
+tags: []
+user_id: '51920'
