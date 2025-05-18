@@ -3,7 +3,7 @@ Este es un repositorio para aprender de los principios de mlflow
 
 1. Instalar Anaconda
    Link: https://www.anaconda.com/download
-2.Crear directorio de trabajo en local (D:\Proyectos\utec\repositorios\)
+2. Crear directorio de trabajo en local (D:\Proyectos\utec\repositorios\)
 3. Crear repositorio basado en un repo template de GitHub
    Repositorio: https://github.com/JhonyJacobi/Introduction-to-mlflow
 4. Iniciar VS Code desde Conda
