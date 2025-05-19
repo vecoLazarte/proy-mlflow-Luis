@@ -34,4 +34,4 @@ mlruns/
 
 ## Recursos de guia
 - Cheatsheet Conda: https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf
-- Cheatsheet Git:
+- Cheatsheet Git: https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
