@@ -17,20 +17,12 @@ Este es un repositorio para aprender de los principios de mlflow
 12. Clonar repositorio en el directorio de trabajo local
    Nos ubicamos en la rutal local D:\Proyectos\utec\repositorios\
    Clonamos el repositorio:git clone https://github.com/JhonyJacobi/Introduction-to-mlflow.git
-14. Crear una nueva rama: [idGitHub]/initmlflow
+13. Crear una nueva rama: [idGitHub]/initmlflow
     git checkout -b [idGitHub]/initmlflow   
-   
-## Guardar cambios en repositorio remoto
-git add .
-git commit -m "Implementé X feature"
-git checkout main
-git pull origin main
-git merge mi-rama-local
-git push origin main
 
 Nota: configurar el .gitignore
-mlartifacts/
-mlruns/
+- mlartifacts/
+- mlruns/
 
 ## Recursos de guia
 - Cheatsheet Conda: https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf
